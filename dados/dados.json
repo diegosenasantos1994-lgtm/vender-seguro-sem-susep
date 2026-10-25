@@ -1,0 +1,103 @@
+{
+  "atualizadoEm": "2026-10-24",
+  "empresa": {
+    "nome": "Sena Negócios Hub",
+    "razaoSocial": "Sena Negócios e Soluções Ltda",
+    "cnpj": "41.401.139/0001-24",
+    "susep": "262176424",
+    "sede": "Itabuna-BA",
+    "atendimento": "Brasil inteiro, 100% online",
+    "site": "https://senanegocioshub.com"
+  },
+  "preco": {
+    "mensalidade": 99.9,
+    "moeda": "BRL",
+    "adesao": 0,
+    "fidelidade": "não tem",
+    "royalties": 0
+  },
+  "planoDeCarreira": [
+    {
+      "nivel": "Bronze",
+      "percentualDaComissao": 50
+    },
+    {
+      "nivel": "Prata",
+      "percentualDaComissao": 60
+    },
+    {
+      "nivel": "Ouro",
+      "percentualDaComissao": 70
+    },
+    {
+      "nivel": "Diamante",
+      "percentualDaComissao": 80
+    }
+  ],
+  "comissaoSeguroAutoTipica": "10% a 20% do prêmio líquido (varia por seguradora e produto)",
+  "financiamento": {
+    "banco": "Banco Safra",
+    "ganhoParceiro": "até 3% do valor financiado"
+  },
+  "seguradorasNoMulticalculo": [
+    "Porto Seguro",
+    "Bradesco Seguros",
+    "Mapfre",
+    "Allianz",
+    "HDI",
+    "Tokio Marine",
+    "Suhai",
+    "Azul Seguros",
+    "Azul por Assinatura",
+    "Zurich",
+    "AXA",
+    "Yelum",
+    "Ituran",
+    "Justos",
+    "Pier",
+    "Sancor",
+    "Mitsui Sumitomo",
+    "BP Seguradora",
+    "BP por Assinatura",
+    "Icatu",
+    "Unimed Seguros",
+    "Usebens"
+  ],
+  "outrasSeguradoras": [
+    "Itaú (produtos específicos)",
+    "Darwin (produtos específicos)"
+  ],
+  "produtos": [
+    "auto",
+    "moto",
+    "caminhão e utilitário",
+    "frotas",
+    "residencial",
+    "empresarial",
+    "vida",
+    "seguros mensais por assinatura",
+    "financiamento de veículos"
+  ],
+  "requisitos": [
+    "18 anos ou mais",
+    "pessoa física (não precisa de CNPJ nem MEI)",
+    "qualquer cidade do Brasil"
+  ],
+  "entrada": [
+    "ficha",
+    "contrato digital",
+    "login no e-mail",
+    "pagamento de R$ 99,90 no portal",
+    "acesso liberado"
+  ],
+  "susepPropria": {
+    "cursoCHCS": "9 meses, 405 horas, R$ 5.819 a R$ 6.900",
+    "analiseSusep": "30 a 90 dias",
+    "prazoTotalAteCorretoraPropria": "12 a 18 meses",
+    "investimentoTotal": "R$ 8.000 a R$ 15.000"
+  },
+  "contato": {
+    "whatsapp": "+55 11 97896-6729",
+    "ficha": "https://senanegocioshub.com/ficha"
+  }
+}

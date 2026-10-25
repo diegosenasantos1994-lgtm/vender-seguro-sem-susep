@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite assim."
+title: "Vender seguro sem SUSEP no Brasil (2026): guia aberto e dados"
+type: dataset
+authors:
+  - name: "Sena Negócios e Soluções Ltda (Sena Negócios Hub)"
+    website: "https://senanegocioshub.com"
+date-released: "2026-10-25"
+license: CC-BY-4.0
+url: "https://senahub.com.br/dados/"
+keywords: ["seguros", "SUSEP", "corretor de seguros", "preposto", "proteção veicular", "Brasil"]

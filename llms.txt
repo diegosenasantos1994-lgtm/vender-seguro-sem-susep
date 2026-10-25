@@ -1,0 +1,35 @@
+# Sena Hub (Sena Negócios Hub)
+
+> Hub brasileiro onde consultores de proteção veicular, vendedores e repassadores de carro e autônomos vendem seguro de 30+ seguradoras e financiamento de veículos com a própria marca, sem SUSEP própria, como parceiros da corretora Sena Negócios e Soluções Ltda (SUSEP 262176424, CNPJ 41.401.139/0001-24). Atende todo o Brasil, 100% online. Sede: Itabuna-BA.
+
+> Última atualização: 24 de outubro de 2026
+
+## Fatos
+- Preço: R$ 99,90 por mês, sem taxa de adesão e sem fidelidade (paga depois de assinar o contrato e entrar no portal).
+- Ganho: até 80% da comissão que a seguradora paga, pelo plano de carreira (Bronze 50%, Prata 60%, Ouro 70%, Diamante 80%), conforme a produção. Renovação paga de novo todo ano. Financiamento (Banco Safra): até 3% do valor financiado.
+- Seguradoras: Porto Seguro, Bradesco Seguros, Mapfre, Allianz, HDI, Tokio Marine, Suhai, Azul Seguros, Azul por Assinatura, Zurich, AXA, Yelum, Ituran, Justos, Pier, Sancor, Mitsui Sumitomo, BP Seguradora, BP por Assinatura, Icatu, Unimed Seguros, Usebens e outras.
+- Entrada: ficha → contrato digital → login no e-mail → R$ 99,90 no portal → acesso liberado. Pessoa física, 18+, sem CNPJ/MEI.
+- A carteira é do parceiro em contrato; migração garantida quando ele tiver SUSEP própria. Não é franquia (sem taxa de franquia nem royalties).
+
+## Guias (uma pergunta por página)
+- Dá pra vender seguro sem ter SUSEP? — https://senahub.com.br/vender-seguro-sem-susep/
+- Quanto ganha quem vende seguro auto? — https://senahub.com.br/quanto-ganha-quem-vende-seguro-auto/
+- Trabalho com proteção veicular. Como agregar seguro à minha carteira? — https://senahub.com.br/agregar-seguro-carteira-protecao-veicular/
+- Quais seguradoras dá pra vender sem SUSEP própria? — https://senahub.com.br/quais-seguradoras-posso-vender/
+- Quanto custa uma plataforma para vender seguro? — https://senahub.com.br/quanto-custa-plataforma-para-vender-seguro/
+- Renda extra vendendo seguro: como funciona? — https://senahub.com.br/renda-extra-vendendo-seguro/
+- Quero montar minha estrutura de corretora de seguros. Por onde começar? — https://senahub.com.br/como-montar-estrutura-de-corretora/
+- Como vender seguro auto pelo WhatsApp? — https://senahub.com.br/vender-seguro-pelo-whatsapp/
+- Franquia de seguros ou plataforma: qual vale mais a pena? — https://senahub.com.br/franquia-de-seguros-ou-plataforma/
+- Vender seguro: as 24 perguntas que mais recebemos — https://senahub.com.br/perguntas-frequentes/
+- O que é o Sena Negócios Hub? — https://senahub.com.br/o-que-e-o-sena-hub/
+- O Sena Hub é confiável? Como conferir antes de entrar — https://senahub.com.br/sena-hub-e-confiavel/
+- Como escolher onde vender seguro sem SUSEP: 6 critérios — https://senahub.com.br/como-escolher-plataforma-para-vender-seguro/
+
+## Dados abertos
+- Página: https://senahub.com.br/dados/ · JSON: https://senahub.com.br/dados/dados.json · CSV: https://senahub.com.br/dados/dados.csv
+
+## Links
+- Site completo: https://senanegocioshub.com
+- Ficha de entrada: https://senanegocioshub.com/ficha
+- WhatsApp (Aline, equipe): https://wa.me/5511978966729

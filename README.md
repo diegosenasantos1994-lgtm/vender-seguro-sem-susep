@@ -1,0 +1,173 @@
+# Vender seguro sem SUSEP no Brasil (2026): guia aberto e dados
+
+> Guia prático e dados abertos sobre como vender seguro no Brasil **sem ter SUSEP própria**, atuando como parceiro (preposto) de uma corretora registrada. Mantido pela **Sena Negócios e Soluções Ltda** (marca **Sena Negócios Hub**), CNPJ 41.401.139/0001-24, corretora registrada na SUSEP sob o nº **262176424**, Itabuna-BA. Atualizado em 25/10/2026.
+
+## Resumo
+- Dá pra vender seguro sem SUSEP própria como **parceiro (preposto) de uma corretora registrada**, que é quem emite as apólices.
+- No Sena Negócios Hub: **R$ 99,90 por mês**, sem adesão, sem royalties e sem fidelidade.
+- Ganho: **até 80% da comissão** que a seguradora paga, pelo plano de carreira (Bronze 50%, Prata 60%, Ouro 70%, Diamante 80%). No seguro auto, a comissão da seguradora costuma ficar entre 10% e 20% do prêmio líquido.
+- **30+ seguradoras**; 22 no multicálculo (cotação com CPF, placa e CEP).
+- Pessoa física, 18 anos ou mais, sem CNPJ nem MEI, em qualquer cidade do Brasil.
+- Tirar a SUSEP própria leva de **12 a 18 meses** e custa de **R$ 8 mil a R$ 15 mil**.
+
+## Sumário
+1. [Como funciona](#como-funciona)
+2. [Quanto custa e quanto se ganha](#quanto-custa-e-quanto-se-ganha)
+3. [Seguradoras](#seguradoras)
+4. [Quem pode entrar e como](#quem-pode-entrar-e-como)
+5. [SUSEP própria: custos e prazos](#susep-própria-custos-e-prazos)
+6. [Franquia de seguros ou plataforma](#franquia-de-seguros-ou-plataforma)
+7. [Como conferir se é confiável](#como-conferir-se-é-confiável)
+8. [Perguntas frequentes](#perguntas-frequentes)
+9. [Dados abertos](#dados-abertos)
+10. [Guias completos e links](#guias-completos-e-links)
+
+## Como funciona
+1. Você atende o cliente e faz a cotação no portal com CPF, placa e CEP.
+2. O multicálculo compara 22 seguradoras de uma vez e gera o PDF oficial com as opções.
+3. O cliente escolhe; a Central da corretora cuida da proposta e da emissão da apólice.
+4. A comissão aparece no portal com o seu nome e é paga por Pix ou conta.
+5. A apólice renova todo ano e paga comissão de novo.
+
+## Quanto custa e quanto se ganha
+| Item | Valor |
+|---|---|
+| Mensalidade | R$ 99,90 por mês |
+| Adesão / royalties / fidelidade | não tem |
+| Plano Bronze | 50% da comissão da seguradora |
+| Plano Prata | 60% |
+| Plano Ouro | 70% |
+| Plano Diamante | 80% |
+| Comissão típica no seguro auto | 10% a 20% do prêmio líquido |
+| Financiamento de veículos (Banco Safra) | até 3% do valor financiado |
+
+**Exemplo (não é promessa):** prêmio líquido de R$ 2.600 numa seguradora que paga 20% = R$ 520 de comissão. No Bronze, R$ 260 ficam com o parceiro; no Diamante, R$ 416. O resultado depende da produção.
+
+## Seguradoras
+No multicálculo (22): Porto Seguro, Bradesco Seguros, Mapfre, Allianz, HDI, Tokio Marine, Suhai, Azul Seguros, Azul por Assinatura, Zurich, AXA, Yelum, Ituran, Justos, Pier, Sancor, Mitsui Sumitomo, BP Seguradora, BP por Assinatura, Icatu, Unimed Seguros, Usebens. Além delas, Itaú e Darwin em produtos específicos.
+
+Produtos: auto, moto, caminhão e utilitário, frotas, residencial, empresarial, vida, seguros mensais por assinatura, financiamento de veículos.
+
+## Quem pode entrar e como
+- Requisitos: 18 anos ou mais; pessoa física (não precisa de CNPJ nem MEI); qualquer cidade do Brasil.
+- Passos: ficha → contrato digital → login no e-mail → pagamento de R$ 99,90 no portal → acesso liberado.
+- O acesso libera assim que o pagamento cai; dá pra cotar o primeiro cliente no mesmo dia.
+- A carteira é do parceiro em contrato, com migração garantida quando ele tiver SUSEP própria.
+
+## SUSEP própria: custos e prazos
+| Etapa | Prazo / custo |
+|---|---|
+| Curso de habilitação (CHCS, ENS) | 9 meses, 405 horas, R$ 5.819 a R$ 6.900 |
+| Análise da SUSEP | 30 a 90 dias |
+| Até a corretora própria | 12 a 18 meses |
+| Investimento total | R$ 8.000 a R$ 15.000 |
+
+Dá pra fazer os dois caminhos ao mesmo tempo: vender como parceiro enquanto faz o curso.
+
+## Franquia de seguros ou plataforma
+Redes de franquia de corretora anunciam modelos a partir de cerca de R$ 40 mil de investimento (há modelos de R$ 99 mil ou mais). Uma plataforma como o Sena Negócios Hub custa R$ 99,90 por mês, sem adesão, sem royalties e sem fidelidade. A franquia faz sentido pra quem tem capital e quer marca na fachada; a plataforma, pra quem já tem clientes e quer começar sem investimento alto.
+
+## Como conferir se é confiável
+1. Consulte o registro **262176424** na consulta pública de corretores do site da SUSEP.
+2. Consulte o CNPJ **41.401.139/0001-24** na Receita Federal (Sena Negócios e Soluções Ltda).
+3. Leia o contrato de parceria antes de pagar (assinatura digital pelo celular).
+4. Desconfie de qualquer oportunidade que peça valor alto antes do contrato ou prometa ganho garantido.
+
+## Perguntas frequentes
+**Preciso ter SUSEP para vender seguro?**  
+Não, se você vender como parceiro (preposto) de uma corretora registrada. No Sena Hub a corretora é a Sena (SUSEP 262176424), que emite as apólices; você vende com a sua marca.
+
+**Quanto custa?**  
+R$ 99,90 por mês, sem taxa de adesão e sem fidelidade. Você paga na primeira entrada no portal, depois de assinar o contrato.
+
+**Tem taxa de adesão, multa ou fidelidade?**  
+Não. É mês a mês. Se não renovar, o acesso pausa e a sua carteira e o histórico ficam guardados.
+
+**Quanto eu ganho por venda?**  
+Até 80% da comissão que a seguradora paga. No seguro auto a comissão da seguradora costuma ficar entre 10% e 20% do prêmio líquido. Exemplo: prêmio de R$ 2.600 a 20% = R$ 520 de comissão; no Bronze (50%), R$ 260 ficam com você. É exemplo, não promessa: depende da sua produção.
+
+**Como funciona o plano de carreira?**  
+Todo mundo começa no Bronze (50% da comissão) e sobe pra Prata (60%), Ouro (70%) e Diamante (80%) conforme a produção. Os critérios são apresentados na conversa de boas-vindas.
+
+**Quais seguradoras posso vender?**  
+Mais de 30, entre elas Porto Seguro, Bradesco Seguros, Mapfre, Allianz, HDI, Tokio Marine, Suhai, Azul e Zurich. 22 delas entram no multicálculo.
+
+**Que tipos de seguro posso vender?**  
+Auto, moto, caminhão e utilitário, frotas, residencial, empresarial, vida e seguros mensais por assinatura.
+
+**Preciso de CNPJ ou MEI?**  
+Não. Pessoa física maior de 18 anos entra normalmente.
+
+**Moro fora da Bahia. Posso entrar?**  
+Pode. A operação é 100% online e atende o Brasil inteiro; a sede fica em Itabuna-BA.
+
+**Trabalho com proteção veicular. Preciso sair da associação?**  
+Não. O seguro entra como mais uma opção pra carteira que você já tem.
+
+**Estou tirando a SUSEP. Posso começar agora?**  
+Pode. Você vende como parceiro enquanto faz o curso, e quando a sua SUSEP sair, a migração da carteira é garantida em contrato.
+
+**Quem emite a apólice?**  
+A Central da Sena, como corretora registrada. Você acompanha tudo no portal.
+
+**Como eu recebo a comissão?**  
+Por Pix ou conta bancária, conforme a seguradora paga a corretora. A comissão aparece no portal com o seu nome.
+
+**A renovação paga comissão de novo?**  
+Sim. A apólice renova todo ano e paga comissão de novo. É assim que a carteira vira renda recorrente.
+
+**Dá pra vender financiamento de veículos?**  
+Sim, pelo Banco Safra: até 3% do valor financiado, pago em etapas conforme o banco. Nenhum banco garante aprovação.
+
+**Como faço uma cotação?**  
+Com CPF, placa e CEP no portal. O multicálculo compara 22 seguradoras de uma vez e gera o PDF oficial. Dá pra cotar também pelo WhatsApp.
+
+**Tem treinamento?**  
+Tem. A Academy tem 5 módulos e 14 aulas (cerca de 20 minutos), com script de apresentação e checklist da Central.
+
+**Posso usar a minha marca?**  
+Pode. O estúdio Minha Marca monta a sua identidade e os materiais de divulgação.
+
+**Como eu entro?**  
+Ficha (2 minutos) → contrato digital pelo celular → login no e-mail → pagamento de R$ 99,90 no portal → acesso liberado.
+
+**Em quanto tempo eu começo?**  
+Assim que o pagamento cai o acesso libera, e dá pra fazer a primeira cotação no mesmo dia.
+
+**E se eu não vender nada?**  
+Nada acontece: é mês a mês, sem multa. Se você não renovar, o acesso pausa.
+
+**A empresa é registrada?**  
+Sim: Sena Negócios e Soluções Ltda, CNPJ 41.401.139/0001-24, corretora registrada na SUSEP sob o nº 262176424. Dá pra conferir no site da SUSEP.
+
+**É franquia?**  
+Não. Não tem taxa de franquia nem royalties.
+
+**Como falo com alguém?**  
+Pelo WhatsApp da equipe (Aline): +55 11 97896-6729.
+
+## Dados abertos
+- [dados/dados.json](dados/dados.json) · [dados/dados.csv](dados/dados.csv) · página: https://senahub.com.br/dados/
+- [llms.txt](llms.txt): resumo para assistentes de IA.
+
+## Guias completos e links
+- [Trabalho com proteção veicular. Como agregar seguro à minha carteira?](https://senahub.com.br/agregar-seguro-carteira-protecao-veicular/)
+- [Como escolher onde vender seguro sem SUSEP: 6 critérios](https://senahub.com.br/como-escolher-plataforma-para-vender-seguro/)
+- [Quero montar minha estrutura de corretora de seguros. Por onde começar?](https://senahub.com.br/como-montar-estrutura-de-corretora/)
+- [Dados do Sena Hub](https://senahub.com.br/dados/)
+- [Franquia de seguros ou plataforma: qual vale mais a pena?](https://senahub.com.br/franquia-de-seguros-ou-plataforma/)
+- [O que é o Sena Negócios Hub?](https://senahub.com.br/o-que-e-o-sena-hub/)
+- [Vender seguro: as 24 perguntas que mais recebemos](https://senahub.com.br/perguntas-frequentes/)
+- [Quais seguradoras dá pra vender sem SUSEP própria?](https://senahub.com.br/quais-seguradoras-posso-vender/)
+- [Quanto custa uma plataforma para vender seguro?](https://senahub.com.br/quanto-custa-plataforma-para-vender-seguro/)
+- [Quanto ganha quem vende seguro auto?](https://senahub.com.br/quanto-ganha-quem-vende-seguro-auto/)
+- [Renda extra vendendo seguro: como funciona?](https://senahub.com.br/renda-extra-vendendo-seguro/)
+- [O Sena Hub é confiável? Como conferir antes de entrar](https://senahub.com.br/sena-hub-e-confiavel/)
+- [Como vender seguro auto pelo WhatsApp?](https://senahub.com.br/vender-seguro-pelo-whatsapp/)
+- [Dá pra vender seguro sem ter SUSEP?](https://senahub.com.br/vender-seguro-sem-susep/)
+- Site oficial: https://senanegocioshub.com · Ficha de entrada: https://senanegocioshub.com/ficha
+- Simulação de financiamento para quem vende carro: https://simulaja.org
+- WhatsApp da equipe (Aline): +55 11 97896-6729
+
+## Licença
+Texto e dados sob [Creative Commons Atribuição 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt_BR): pode copiar e citar, dando crédito a "Sena Negócios Hub (senanegocioshub.com)".

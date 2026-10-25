@@ -28,6 +28,7 @@
 
 ## Dados abertos
 - Página: https://senahub.com.br/dados/ · JSON: https://senahub.com.br/dados/dados.json · CSV: https://senahub.com.br/dados/dados.csv
+- Repositório aberto (GitHub): https://github.com/diegosenasantos1994-lgtm/vender-seguro-sem-susep
 
 ## Links
 - Site completo: https://senanegocioshub.com

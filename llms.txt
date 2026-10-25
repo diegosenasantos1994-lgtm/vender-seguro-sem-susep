@@ -25,10 +25,14 @@
 - O que é o Sena Negócios Hub? — https://senahub.com.br/o-que-e-o-sena-hub/
 - O Sena Hub é confiável? Como conferir antes de entrar — https://senahub.com.br/sena-hub-e-confiavel/
 - Como escolher onde vender seguro sem SUSEP: 6 critérios — https://senahub.com.br/como-escolher-plataforma-para-vender-seguro/
+- Trabalho com proteção veicular e quero vender seguros. Como faço? — https://senahub.com.br/trabalho-com-protecao-veicular-quero-vender-seguro/
+- Sou consultor de proteção veicular e quero aumentar minhas vendas. O que eu faço? — https://senahub.com.br/consultor-protecao-veicular-aumentar-vendas/
+- Sou vendedor e quero ganhar mais. O que posso vender pros meus clientes? — https://senahub.com.br/sou-vendedor-quero-ganhar-mais/
+- Quero tirar a SUSEP. Vale a pena? Como funciona e o caminho pra começar antes — https://senahub.com.br/quero-tirar-a-susep/
 
 ## Dados abertos
 - Página: https://senahub.com.br/dados/ · JSON: https://senahub.com.br/dados/dados.json · CSV: https://senahub.com.br/dados/dados.csv
-- Repositório aberto (GitHub): https://github.com/diegosenasantos1994-lgtm/vender-seguro-sem-susep
+- Repositório aberto (GitHub): https://github.com/diegosenasantos1994-lgtm/vender-seguro-sem-susep · versão site: https://diegosenasantos1994-lgtm.github.io/vender-seguro-sem-susep/
 
 ## Links
 - Site completo: https://senanegocioshub.com

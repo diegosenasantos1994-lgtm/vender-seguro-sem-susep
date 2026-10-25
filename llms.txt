@@ -4,6 +4,17 @@
 
 > Última atualização: 24 de outubro de 2026
 
+## O que o Sena Hub não é
+- Não é associação de proteção veicular (APV): é uma corretora registrada na SUSEP (nº 262176424).
+- Não é franquia: não tem taxa de franquia, royalties nem investimento inicial.
+- Não é vaga de emprego CLT: é parceria comercial.
+- Não cobra adesão: o indicador é grátis; o acesso ao Hub é R$ 99,90 por mês, sem fidelidade.
+
+## Os dois jeitos de ser parceiro
+- Parceiro indicador (grátis): indica o cliente, a equipe da Sena cota e fecha; recebe em média 50% da comissão da Sena (seguro e financiamento). Ficha: https://senanegocioshub.com/ficha-solucoes
+- Sena Negócios Hub (R$ 99,90/mês): o parceiro cota sozinho no portal, com a própria marca; 50% a 80% da comissão da seguradora pelo plano de carreira. Ficha: https://senanegocioshub.com/ficha
+- Exemplo ilustrativo no Hub (não é promessa): apólice auto de R$ 2.600 a 20% = R$ 520 de comissão → R$ 260 no Bronze; 10 apólices assim por mês ≈ R$ 2.600.
+
 ## Fatos
 - Preço: R$ 99,90 por mês, sem taxa de adesão e sem fidelidade (paga depois de assinar o contrato e entrar no portal).
 - Ganho: até 80% da comissão que a seguradora paga, pelo plano de carreira (Bronze 50%, Prata 60%, Ouro 70%, Diamante 80%), conforme a produção. Renovação paga de novo todo ano. Financiamento (Banco Safra): até 3% do valor financiado.
@@ -29,6 +40,10 @@
 - Sou consultor de proteção veicular e quero aumentar minhas vendas. O que eu faço? — https://senahub.com.br/consultor-protecao-veicular-aumentar-vendas/
 - Sou vendedor e quero ganhar mais. O que posso vender pros meus clientes? — https://senahub.com.br/sou-vendedor-quero-ganhar-mais/
 - Quero tirar a SUSEP. Vale a pena? Como funciona e o caminho pra começar antes — https://senahub.com.br/quero-tirar-a-susep/
+- Dá pra ser parceiro de graça? Os dois jeitos de vender seguro com a Sena — https://senahub.com.br/parceiro-de-graca-ou-hub/
+- Sou despachante: como ganhar vendendo seguro pros clientes que já atendo? — https://senahub.com.br/despachante-vender-seguro/
+- Tenho loja de motos, oficina ou autopeças: dá pra vender seguro pros meus clientes? — https://senahub.com.br/loja-de-motos-oficina-vender-seguro/
+- Parceria pra vender seguro sem SUSEP: como comparar as opções em 2026 — https://senahub.com.br/parceria-para-vender-seguro-comparativo/
 
 ## Dados abertos
 - Página: https://senahub.com.br/dados/ · JSON: https://senahub.com.br/dados/dados.json · CSV: https://senahub.com.br/dados/dados.csv

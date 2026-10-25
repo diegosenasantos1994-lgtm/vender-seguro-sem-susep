@@ -74,7 +74,7 @@ Redes de franquia de corretora anunciam modelos a partir de cerca de R$ 40 mil d
 4. Desconfie de qualquer oportunidade que peça valor alto antes do contrato ou prometa ganho garantido.
 
 ## Associações de proteção veicular por estado (cadastro da SUSEP)
-Quantas associações de proteção veicular concluíram o cadastro na SUSEP até 15/07/2025, por estado — o público natural de quem quer somar seguro à carteira. Arquivos: [dados/associacoes-por-estado.csv](dados/associacoes-por-estado.csv) · [dados/associacoes-top15-cidades.csv](dados/associacoes-top15-cidades.csv).
+Quantas associações de proteção veicular concluíram o cadastro na SUSEP até 15/07/2025, por estado — o público natural de quem quer somar seguro à carteira. Arquivos: [dados/associacoes-por-estado.csv](dados/associacoes-por-estado.csv) · [dados/associacoes-top15-cidades.csv](dados/associacoes-top15-cidades.csv). Release para a imprensa (com PDF): https://senahub.com.br/imprensa/ · Como entrar no Hub em cada estado: https://senanegocioshub.com/estados/
 
 | UF | Estado | Associações | % do país | Municípios |
 |---|---|---|---|---|
@@ -111,15 +111,15 @@ Quantas associações de proteção veicular concluíram o cadastro na SUSEP at�
 Fonte: [Relação de Associações de Proteção Veicular Cadastradas na Susep (AAAPV), com dados extraídos do cadastro da SUSEP até 15/07/2025](https://aaapv.org.br/wp-content/uploads/2025/07/Relacao-de-Associacoes-de-Protecao-Veicular-Cadastradas-na-Susep-2-1.pdf).
 
 ## Blog
-- [Abrir corretora ou ser parceiro: o que compensa em 2026?](https://senahub.com.br/blog/abrir-corretora-ou-ser-parceiro/)
-- [LC 213/2025: o que muda pra quem trabalha com proteção veicular](https://senahub.com.br/blog/lc-213-o-que-muda-para-protecao-veicular/)
-- [Associações de proteção veicular por estado: o ranking do cadastro da SUSEP](https://senahub.com.br/blog/associacoes-de-protecao-veicular-por-estado/)
-- [Seguro auto por assinatura (mensal): como funciona e pra quem vale](https://senahub.com.br/blog/seguro-por-assinatura-como-funciona/)
-- [Renovação de seguro: como não perder o cliente (e a comissão) todo ano](https://senahub.com.br/blog/renovacao-de-seguro-como-nao-perder-o-cliente/)
-- [Seguro pra motorista de aplicativo: o que oferecer e como cotar](https://senahub.com.br/blog/seguro-para-motorista-de-aplicativo/)
-- [Franquia do seguro auto: o que é e como explicar pro cliente em 1 minuto](https://senahub.com.br/blog/franquia-do-seguro-como-explicar/)
-- [Seguro ou proteção veicular: como apresentar as duas opções sem perder o cliente](https://senahub.com.br/blog/seguro-ou-protecao-veicular-como-apresentar/)
-- [Financiamento e seguro: como ganhar duas vezes na venda do carro](https://senahub.com.br/blog/financiamento-e-seguro-na-venda-do-carro/)
+- [Abrir corretora ou ser parceiro: o que compensa em 2026?](https://senanegocioshub.com/blog/abrir-corretora-ou-ser-parceiro/)
+- [LC 213/2025: o que muda pra quem trabalha com proteção veicular](https://senanegocioshub.com/blog/lc-213-o-que-muda-para-protecao-veicular/)
+- [Associações de proteção veicular por estado: o ranking do cadastro da SUSEP](https://senanegocioshub.com/blog/associacoes-de-protecao-veicular-por-estado/)
+- [Seguro auto por assinatura (mensal): como funciona e pra quem vale](https://senanegocioshub.com/blog/seguro-por-assinatura-como-funciona/)
+- [Renovação de seguro: como não perder o cliente (e a comissão) todo ano](https://senanegocioshub.com/blog/renovacao-de-seguro-como-nao-perder-o-cliente/)
+- [Seguro pra motorista de aplicativo: o que oferecer e como cotar](https://senanegocioshub.com/blog/seguro-para-motorista-de-aplicativo/)
+- [Franquia do seguro auto: o que é e como explicar pro cliente em 1 minuto](https://senanegocioshub.com/blog/franquia-do-seguro-como-explicar/)
+- [Seguro ou proteção veicular: como apresentar as duas opções sem perder o cliente](https://senanegocioshub.com/blog/seguro-ou-protecao-veicular-como-apresentar/)
+- [Financiamento e seguro: como ganhar duas vezes na venda do carro](https://senanegocioshub.com/blog/financiamento-e-seguro-na-venda-do-carro/)
 
 ## Perguntas frequentes
 **Preciso ter SUSEP para vender seguro?**  
@@ -209,6 +209,7 @@ Pelo WhatsApp da equipe (Aline): +55 11 97896-6729.
 - [Sou despachante: como ganhar vendendo seguro pros clientes que já atendo?](https://senahub.com.br/despachante-vender-seguro/)
 - [Vender seguro sem SUSEP no seu estado](https://senahub.com.br/estados/)
 - [Franquia de seguros ou plataforma: qual vale mais a pena?](https://senahub.com.br/franquia-de-seguros-ou-plataforma/)
+- [Minas Gerais concentra 30% das associações de proteção veicular cadastradas na SUSEP](https://senahub.com.br/imprensa/)
 - [Tenho loja de motos, oficina ou autopeças: dá pra vender seguro pros meus clientes?](https://senahub.com.br/loja-de-motos-oficina-vender-seguro/)
 - [O que é o Sena Negócios Hub?](https://senahub.com.br/o-que-e-o-sena-hub/)
 - [Dá pra ser parceiro de graça? Os dois jeitos de vender seguro com a Sena](https://senahub.com.br/parceiro-de-graca-ou-hub/)
@@ -226,6 +227,7 @@ Pelo WhatsApp da equipe (Aline): +55 11 97896-6729.
 - [Dá pra vender seguro sem ter SUSEP?](https://senahub.com.br/vender-seguro-sem-susep/)
 - Site oficial: https://senanegocioshub.com · Ficha de entrada: https://senanegocioshub.com/ficha
 - Simulação de financiamento para quem vende carro: https://simulaja.org
+- Sala de imprensa (release, tabelas em CSV, PDF e logo): https://senahub.com.br/imprensa/
 - WhatsApp da equipe (Aline): +55 11 97896-6729
 
 ## Licença

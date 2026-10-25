@@ -73,6 +73,54 @@ Redes de franquia de corretora anunciam modelos a partir de cerca de R$ 40 mil d
 3. Leia o contrato de parceria antes de pagar (assinatura digital pelo celular).
 4. Desconfie de qualquer oportunidade que peça valor alto antes do contrato ou prometa ganho garantido.
 
+## Associações de proteção veicular por estado (cadastro da SUSEP)
+Quantas associações de proteção veicular concluíram o cadastro na SUSEP até 15/07/2025, por estado — o público natural de quem quer somar seguro à carteira. Arquivos: [dados/associacoes-por-estado.csv](dados/associacoes-por-estado.csv) · [dados/associacoes-top15-cidades.csv](dados/associacoes-top15-cidades.csv).
+
+| UF | Estado | Associações | % do país | Municípios |
+|---|---|---|---|---|
+| MG | [Minas Gerais](https://senahub.com.br/estados/minas-gerais/) | 676 | 30,5% | 75 |
+| PE | [Pernambuco](https://senahub.com.br/estados/pernambuco/) | 234 | 10,6% | 57 |
+| RJ | [Rio de Janeiro](https://senahub.com.br/estados/rio-de-janeiro/) | 209 | 9,4% | 21 |
+| SC | [Santa Catarina](https://senahub.com.br/estados/santa-catarina/) | 183 | 8,3% | 48 |
+| BA | [Bahia](https://senahub.com.br/estados/bahia/) | 142 | 6,4% | 34 |
+| GO | [Goiás](https://senahub.com.br/estados/goias/) | 129 | 5,8% | 13 |
+| SP | [São Paulo](https://senahub.com.br/estados/sao-paulo/) | 122 | 5,5% | 39 |
+| PR | [Paraná](https://senahub.com.br/estados/parana/) | 94 | 4,2% | 30 |
+| RS | [Rio Grande do Sul](https://senahub.com.br/estados/rio-grande-do-sul/) | 70 | 3,2% | 30 |
+| AL | [Alagoas](https://senahub.com.br/estados/alagoas/) | 69 | 3,1% | 16 |
+| CE | [Ceará](https://senahub.com.br/estados/ceara/) | 59 | 2,7% | 14 |
+| SE | [Sergipe](https://senahub.com.br/estados/sergipe/) | 36 | 1,6% | 10 |
+| ES | [Espírito Santo](https://senahub.com.br/estados/espirito-santo/) | 36 | 1,6% | 12 |
+| MT | [Mato Grosso](https://senahub.com.br/estados/mato-grosso/) | 30 | 1,4% | 11 |
+| RN | [Rio Grande do Norte](https://senahub.com.br/estados/rio-grande-do-norte/) | 25 | 1,1% | 7 |
+| TO | [Tocantins](https://senahub.com.br/estados/tocantins/) | 17 | 0,8% | 4 |
+| PB | [Paraíba](https://senahub.com.br/estados/paraiba/) | 17 | 0,8% | 9 |
+| DF | [Distrito Federal](https://senahub.com.br/estados/distrito-federal/) | 16 | 0,7% | 1 |
+| MA | [Maranhão](https://senahub.com.br/estados/maranhao/) | 12 | 0,5% | 4 |
+| RO | [Rondônia](https://senahub.com.br/estados/rondonia/) | 10 | 0,5% | 3 |
+| PA | [Pará](https://senahub.com.br/estados/para/) | 10 | 0,5% | 5 |
+| MS | [Mato Grosso do Sul](https://senahub.com.br/estados/mato-grosso-do-sul/) | 8 | 0,4% | 3 |
+| PI | [Piauí](https://senahub.com.br/estados/piaui/) | 6 | 0,3% | 2 |
+| AM | [Amazonas](https://senahub.com.br/estados/amazonas/) | 4 | 0,2% | 1 |
+| RR | [Roraima](https://senahub.com.br/estados/roraima/) | 1 | 0,05% | 1 |
+| AC | [Acre](https://senahub.com.br/estados/acre/) | 1 | 0,05% | 1 |
+| AP | [Amapá](https://senahub.com.br/estados/amapa/) | 0 | 0% | 0 |
+
+**As 15 cidades com mais associações:** [Belo Horizonte](https://senahub.com.br/cidades/belo-horizonte/) (MG) 204 · [Contagem](https://senahub.com.br/cidades/contagem/) (MG) 163 · [Rio de Janeiro](https://senahub.com.br/cidades/rio-de-janeiro/) (RJ) 116 · [Goiânia](https://senahub.com.br/cidades/goiania/) (GO) 87 · [Betim](https://senahub.com.br/cidades/betim/) (MG) 68 · [Caruaru](https://senahub.com.br/cidades/caruaru/) (PE) 53 · [Tubarão](https://senahub.com.br/cidades/tubarao/) (SC) 39 · [Fortaleza](https://senahub.com.br/cidades/fortaleza/) (CE) 38 · [São Paulo](https://senahub.com.br/cidades/sao-paulo/) (SP) 36 · [Uberlândia](https://senahub.com.br/cidades/uberlandia/) (MG) 36 · [Arapiraca](https://senahub.com.br/cidades/arapiraca/) (AL) 33 · [Vitória da Conquista](https://senahub.com.br/cidades/vitoria-da-conquista/) (BA) 30 · [Nova Iguaçu](https://senahub.com.br/cidades/nova-iguacu/) (RJ) 27 · [Recife](https://senahub.com.br/cidades/recife/) (PE) 26 · [Salvador](https://senahub.com.br/cidades/salvador/) (BA) 26.
+
+Fonte: [Relação de Associações de Proteção Veicular Cadastradas na Susep (AAAPV), com dados extraídos do cadastro da SUSEP até 15/07/2025](https://aaapv.org.br/wp-content/uploads/2025/07/Relacao-de-Associacoes-de-Protecao-Veicular-Cadastradas-na-Susep-2-1.pdf).
+
+## Blog
+- [Abrir corretora ou ser parceiro: o que compensa em 2026?](https://senahub.com.br/blog/abrir-corretora-ou-ser-parceiro/)
+- [LC 213/2025: o que muda pra quem trabalha com proteção veicular](https://senahub.com.br/blog/lc-213-o-que-muda-para-protecao-veicular/)
+- [Associações de proteção veicular por estado: o ranking do cadastro da SUSEP](https://senahub.com.br/blog/associacoes-de-protecao-veicular-por-estado/)
+- [Seguro auto por assinatura (mensal): como funciona e pra quem vale](https://senahub.com.br/blog/seguro-por-assinatura-como-funciona/)
+- [Renovação de seguro: como não perder o cliente (e a comissão) todo ano](https://senahub.com.br/blog/renovacao-de-seguro-como-nao-perder-o-cliente/)
+- [Seguro pra motorista de aplicativo: o que oferecer e como cotar](https://senahub.com.br/blog/seguro-para-motorista-de-aplicativo/)
+- [Franquia do seguro auto: o que é e como explicar pro cliente em 1 minuto](https://senahub.com.br/blog/franquia-do-seguro-como-explicar/)
+- [Seguro ou proteção veicular: como apresentar as duas opções sem perder o cliente](https://senahub.com.br/blog/seguro-ou-protecao-veicular-como-apresentar/)
+- [Financiamento e seguro: como ganhar duas vezes na venda do carro](https://senahub.com.br/blog/financiamento-e-seguro-na-venda-do-carro/)
+
 ## Perguntas frequentes
 **Preciso ter SUSEP para vender seguro?**  
 Não, se você vender como parceiro (preposto) de uma corretora registrada. No Sena Hub a corretora é a Sena (SUSEP 262176424), que emite as apólices; você vende com a sua marca.
@@ -152,11 +200,14 @@ Pelo WhatsApp da equipe (Aline): +55 11 97896-6729.
 
 ## Guias completos e links
 - [Trabalho com proteção veicular. Como agregar seguro à minha carteira?](https://senahub.com.br/agregar-seguro-carteira-protecao-veicular/)
+- [Blog do Sena Hub](https://senahub.com.br/blog/)
+- [Vender seguro sem SUSEP na sua cidade](https://senahub.com.br/cidades/)
 - [Como escolher onde vender seguro sem SUSEP: 6 critérios](https://senahub.com.br/como-escolher-plataforma-para-vender-seguro/)
 - [Quero montar minha estrutura de corretora de seguros. Por onde começar?](https://senahub.com.br/como-montar-estrutura-de-corretora/)
 - [Sou consultor de proteção veicular e quero aumentar minhas vendas. O que eu faço?](https://senahub.com.br/consultor-protecao-veicular-aumentar-vendas/)
 - [Dados do Sena Hub](https://senahub.com.br/dados/)
 - [Sou despachante: como ganhar vendendo seguro pros clientes que já atendo?](https://senahub.com.br/despachante-vender-seguro/)
+- [Vender seguro sem SUSEP no seu estado](https://senahub.com.br/estados/)
 - [Franquia de seguros ou plataforma: qual vale mais a pena?](https://senahub.com.br/franquia-de-seguros-ou-plataforma/)
 - [Tenho loja de motos, oficina ou autopeças: dá pra vender seguro pros meus clientes?](https://senahub.com.br/loja-de-motos-oficina-vender-seguro/)
 - [O que é o Sena Negócios Hub?](https://senahub.com.br/o-que-e-o-sena-hub/)

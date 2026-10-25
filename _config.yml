@@ -2,3 +2,8 @@ title: "Vender seguro sem SUSEP no Brasil (2026)"
 description: "Guia aberto e dados: como vender seguro sem SUSEP própria como parceiro de corretora registrada (Sena Negócios Hub, SUSEP 262176424)."
 lang: pt-BR
 theme: jekyll-theme-cayman
+url: "https://diegosenasantos1994-lgtm.github.io"
+baseurl: "/vender-seguro-sem-susep"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
